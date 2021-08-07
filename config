@@ -1,0 +1,15 @@
+Host sparks-staging
+  Hostname 206.189.83.255
+  User siva
+  IdentityFile ~/.ssh/id_ed25519
+
+Host sacnl-staging
+  Hostname 128.199.191.4
+  User siva
+  IdentityFile ~/.ssh/id_ed25519
+
+Host dorcas-droplet
+  Hostname 178.128.94.41
+  User siva
+  IdentityFile ~/.ssh/id_ed25519
+
