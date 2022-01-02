@@ -31,7 +31,6 @@ inoremap (<CR> (<CR>)<Esc>ko
 inoremap jk <Esc>
 inoremap kj <Esc>
 
-
 " Interface
 set title
 set ruler
