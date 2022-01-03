@@ -2,7 +2,6 @@ set nocompatible
 syntax on
 set autoindent
 set backup
-set backupdir=~/.backup
 set expandtab
 set linebreak
 set nocompatible
