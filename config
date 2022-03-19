@@ -1,0 +1,10 @@
+Host sunfire
+  Hostname sunfire.comp.nus.edu
+  User siva-rn
+  IdentityFile ~/.ssh/id_ed25519
+ 
+Host cs3217
+  Hostname 178.128.111.22
+  User vapor
+  IdentityFile ~/.ssh/id_ed25519
+                                      
