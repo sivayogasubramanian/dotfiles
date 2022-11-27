@@ -1,7 +1,6 @@
 set nocompatible
 syntax on
 set autoindent
-set backup
 set expandtab
 set linebreak
 set nocompatible
