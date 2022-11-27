@@ -11,12 +11,6 @@ set wrap
 set laststatus=2
 filetype plugin indent on
 
-" The following should give 16 colors on old Windows machine
-set t_AB=1%{8}%<%t%p1%{40}%+%e%p1%{92}%+%;%dm
-set t_AF=1%{8}%<%t%p1%{30}%+%e%p1%{82}%+%;%dm
-set t_Co=256
-set termguicolors
-
 " Search
 set ignorecase
 set incsearch
